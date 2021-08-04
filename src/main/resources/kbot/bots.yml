@@ -1,0 +1,7 @@
+bots:
+  - telegram-token: "1707356258:AAEnzFK90uJ-91f6ASYzoOmbYYIhsBBnWJA"
+    username: "neon_fonts_bot"
+    url: "https://e53483b50d24.ngrok.io"
+    bot-name: "neon-fonts"
+    webhook-token: "Ov4uOP7bwiG-7tERVHFfkw3nJ_sNXczAogIXjfCa9kg"
+    initial-owner-id: 173392396

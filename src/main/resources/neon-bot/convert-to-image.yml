@@ -1,0 +1,9 @@
+neon-fonts:
+  convert-to-image:
+    max-height: 720
+    max-rows: 4
+    max-columns: 2
+    padding: 50
+    fonts-path: fonts
+    bg-path: background.png
+    no-fonts-message: Не удалось найти подходящий шрифт

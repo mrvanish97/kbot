@@ -1,0 +1,5 @@
+bots:
+  use-bundeled: true
+
+telegrambots:
+  enabled: false
